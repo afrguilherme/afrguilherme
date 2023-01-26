@@ -1,6 +1,6 @@
 ### Hey there 😅
 
-### My name is Guilherme Augusto, i am a junior web developer creating projects with:
+### My name is Guilherme Augusto, i am a front-end developer creating projects with:
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
