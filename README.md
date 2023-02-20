@@ -18,8 +18,8 @@
 
 <br>
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustogafr122)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrguilherme)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustogafr122)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrguilherme)](https://github.com/anuraghazra/github-readme-stats)
