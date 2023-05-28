@@ -1,6 +1,6 @@
-### Olá! 😅
+### Hey there! 😅
 
-### Meu nome é Guilherme Augusto, um sou desenvolvedor Front-End em busca de me tornar Full Stack, atualmente estou criando projetos com:
+### My name is Guilherme Augusto, I'm a Front-End developer looking to become Full Stack, I'm currently creating projects with:
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
