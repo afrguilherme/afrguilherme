@@ -1,6 +1,6 @@
 ### Hey there! 😅
 
-### My name is Guilherme Augusto, I'm a Front-End developer, member of <a href="https://rodolfomori.com.br/devclub/">DevClub</a>, looking to become Full Stack, I'm currently creating projects with:
+My name is Guilherme Augusto, I'm a Front-End developer, member of <a href="https://rodolfomori.com.br/devclub/">DevClub</a>, looking to become Full Stack, I'm currently creating projects with:
 
 - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 
