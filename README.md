@@ -1,6 +1,6 @@
 ### Olá! 😅
 
-Meu nome é Guilherme Augusto, atualmente sou desenvolvedor full stack na Diretoria de Administração da Aeronáutica e membro do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
+Meu nome é Guilherme Augusto, atualmente sou Desenvolvedor Full Stack na Diretoria de Administração da Aeronáutica e membro do <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
 
 Estou desenvolvendo projetos com:
 
